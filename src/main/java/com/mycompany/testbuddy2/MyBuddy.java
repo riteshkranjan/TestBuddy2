@@ -36,10 +36,10 @@ public class MyBuddy extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Servlet MyBuddy is workign hurray</title>");            
+            out.println("<title>Servlet MyBuddy is workign hurray again</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet MyBuddy at " + request.getContextPath() + "is workign hurray</h1>");
+            out.println("<h1>Servlet MyBuddy at " + request.getContextPath() + "is workign hurray again</h1>");
             out.println("</body>");
             out.println("</html>");
         } finally {
